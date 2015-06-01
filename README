@@ -1,0 +1,15 @@
+The program NRRPGpu is distributed under the terms of the GNU General Public License.
+
+Authors: Zdenek Baumelt (baumezde@fel.cvut.cz), Jan Dvorak (dvoraj57@fel.cvut.cz) and Premysl Sucha (suchap@fel.cvut.cz)
+
+Supported compiler: GNU Compiler Collection (GCC)
+
+You can download the standard datasets from https://aquila4.iseg.utl.pt/aquila/homepage/f683/nurse-rerostering-instances.
+
+Remark:
+If you find this software useful for your research or you create an algorithm
+based on this software, please cite our original paper in your publication list.
+
+Zdenek Baumelt, Jan Dvorak, Premysl Sucha, Zdenek Hanzalek, 
+An Acceleration of the Algorithm for the Nurse Rerostering Problem on a Graphic Processing Unit,
+International Conference on Applied Operational Research, July 2013.

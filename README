@@ -10,6 +10,6 @@ Remark:
 If you find this software useful for your research or you create an algorithm
 based on this software, please cite our original paper in your publication list.
 
-Zdenek Baumelt, Jan Dvorak, Premysl Sucha, Zdenek Hanzalek, 
-An Acceleration of the Algorithm for the Nurse Rerostering Problem on a Graphic Processing Unit,
-International Conference on Applied Operational Research, July 2013.
+Z. Bäumelt et al., A novel approach for nurse rerostering based on a parallel algorithm, 
+European Journal of Operational Research (2016), 
+http://dx.doi.org/10.1016/j.ejor.2015.11.022
